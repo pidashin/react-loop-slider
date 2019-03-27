@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.slider{
+  margin: 0 auto;
+  width: 300px;
+  background-color: #D6DBDF;
+  overflow: hidden;
+}
+
+.wrap {
+  background-color: #D5F5E3;
+  display: flex;
+}
+
+.item{
+  height: 250px;
+  width: 300px;
+  display: flex;
+  flex: none;
+}
+
+.red{
+  background-color: red;
+}
+
+.orange{
+  background-color: orange;
+}
+
+.yellow{
+  background-color: yellow;
+}
+
+.green{
+  background-color: green;
+}
+
+.blue{
+  background-color: blue;
+}
+
+.navy{
+  background-color: NAVY;
+}
+
+.purple{
+  background-color: purple;
+}
